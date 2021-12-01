@@ -11,7 +11,7 @@
 	}
 
 	With Range:
-	for(auto n:Range(0,10,1)
+	for(auto n:Range<int>(0,10,1)
 	{
 		//do something
 	}
